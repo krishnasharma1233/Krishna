@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm krishna kumar</h1>
 <h3 align="center">A passionate software enginner from India</h3>
 
-<img align="right" alt="coding" width="100" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnasharma1233&label=Profile%20views&color=0e75b6&style=flat" alt="krishnasharma1233" /> </p>
 
