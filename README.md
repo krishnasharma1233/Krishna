@@ -1,4 +1,4 @@
-![logo](https://github.com/krishnasharma1233/krishnasharma1233/blob/main/Banner.png)
+![logo](https://github.com/krishnasharma1233/krishnasharma1233/blob/main/Your%20paragraph%20text%20(1).png)
 <h1 align="center">Hi 👋, I'm krishna kumar</h1>
 <h3 align="center">A passionate software enginner from India</h3>
 
